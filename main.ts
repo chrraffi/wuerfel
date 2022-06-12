@@ -11,7 +11,7 @@ input.onButtonPressed(Button.A, function () {
 let Ergebnis = 0
 let Anzahl_1 = 0
 let Anz_würfeln = 0
-Anz_würfeln = 10
+Anz_würfeln = 100000
 basic.forever(function () {
 	
 })
